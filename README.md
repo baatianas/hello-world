@@ -3,7 +3,7 @@
 This is my first GitHub repository!
 
 ## About Me
-- Name: [Your Name]
+- Name: Anas Baati
 - Student: Computer Science
 - Learning: Git and GitHub
 
